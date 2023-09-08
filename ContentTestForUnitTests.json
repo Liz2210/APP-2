@@ -1,0 +1,16 @@
+{
+  "LineEntries": [
+    {
+      "BackgroundColor": 9,
+      "ForegroundColor": 7,
+      "Text": "Text for test"
+    }
+  ],
+  "LineEntriesPL": [
+    {
+      "BackgroundColor": 9,
+      "ForegroundColor": 7,
+      "Text": "Tekst dla testa"
+    }
+  ]
+}

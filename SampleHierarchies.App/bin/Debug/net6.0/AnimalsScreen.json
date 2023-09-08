@@ -1,0 +1,146 @@
+{
+  "LineEntries": [
+    {
+      "BackgroundColor": 15,
+      "ForegroundColor": 1,
+      "Text": "Your available choices are:"
+    },
+    {
+      "BackgroundColor": 15,
+      "ForegroundColor": 1,
+      "Text": "0. Exit"
+    },
+    {
+      "BackgroundColor": 15,
+      "ForegroundColor": 1,
+      "Text": "1. Mammals"
+    },
+    {
+      "BackgroundColor": 15,
+      "ForegroundColor": 1,
+      "Text": "2. Save to file"
+    },
+    {
+      "BackgroundColor": 15,
+      "ForegroundColor": 1,
+      "Text": "3. Read from file"
+    },
+    {
+      "BackgroundColor": 15,
+      "ForegroundColor": 1,
+      "Text": "Please enter your choice: "
+    },
+    {
+      "BackgroundColor": 15,
+      "ForegroundColor": 1,
+      "Text": "Going back to parent menu."
+    },
+    {
+      "BackgroundColor": 15,
+      "ForegroundColor": 1,
+      "Text": "Invalid choice. Try again."
+    },
+    {
+      "BackgroundColor": 15,
+      "ForegroundColor": 1,
+      "Text": "Save data to file: "
+    },
+    {
+      "BackgroundColor": 15,
+      "ForegroundColor": 1,
+      "Text": "Data saving to: arg was successful."
+    },
+    {
+      "BackgroundColor": 15,
+      "ForegroundColor": 1,
+      "Text": "Data saving was not successful."
+    },
+    {
+      "BackgroundColor": 15,
+      "ForegroundColor": 1,
+      "Text": "Read data from file: "
+    },
+    {
+      "BackgroundColor": 15,
+      "ForegroundColor": 1,
+      "Text": "Data reading from arg was successful."
+    },
+    {
+      "BackgroundColor": 15,
+      "ForegroundColor": 1,
+      "Text": "Data reading from was not successful."
+    }
+  ],
+  "LineEntriesPL": [
+    {
+      "BackgroundColor": 15,
+      "ForegroundColor": 1,
+      "Text": "Dostępne opcje to:"
+    },
+    {
+      "BackgroundColor": 15,
+      "ForegroundColor": 1,
+      "Text": "0. Wyjście"
+    },
+    {
+      "BackgroundColor": 15,
+      "ForegroundColor": 1,
+      "Text": "1. Ssaki"
+    },
+    {
+      "BackgroundColor": 15,
+      "ForegroundColor": 1,
+      "Text": "2. Zapisz do pliku"
+    },
+    {
+      "BackgroundColor": 15,
+      "ForegroundColor": 1,
+      "Text": "3. Odczytaj z pliku"
+    },
+    {
+      "BackgroundColor": 15,
+      "ForegroundColor": 1,
+      "Text": "Proszę wprowadzić swój wybór: "
+    },
+    {
+      "BackgroundColor": 15,
+      "ForegroundColor": 1,
+      "Text": "Powrót do menu głównego."
+    },
+    {
+      "BackgroundColor": 15,
+      "ForegroundColor": 1,
+      "Text": "Nieprawidłowy wybór. Spróbuj ponownie."
+    },
+    {
+      "BackgroundColor": 15,
+      "ForegroundColor": 1,
+      "Text": "Zapisz dane do pliku: "
+    },
+    {
+      "BackgroundColor": 15,
+      "ForegroundColor": 1,
+      "Text": "Zapis danych do: arg było udane."
+    },
+    {
+      "BackgroundColor": 15,
+      "ForegroundColor": 1,
+      "Text": "Zapis danych nie powiódł się."
+    },
+    {
+      "BackgroundColor": 15,
+      "ForegroundColor": 1,
+      "Text": "Odczytaj dane z pliku: "
+    },
+    {
+      "BackgroundColor": 15,
+      "ForegroundColor": 1,
+      "Text": "Odczyt danych z arg był udany."
+    },
+    {
+      "BackgroundColor": 15,
+      "ForegroundColor": 1,
+      "Text": "Odczyt danych z był nieudany."
+    }
+  ]
+}

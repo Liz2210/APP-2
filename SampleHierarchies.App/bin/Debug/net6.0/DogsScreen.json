@@ -1,0 +1,237 @@
+{
+  "LineEntries": [
+    {
+      "BackgroundColor": 14,
+      "ForegroundColor": 6,
+      "Text": "Your available choices are:"
+    },
+    {
+      "BackgroundColor": 14,
+      "ForegroundColor": 6,
+      "Text": "0. Exit"
+    },
+    {
+      "BackgroundColor": 14,
+      "ForegroundColor": 6,
+      "Text": "1. List all dogs"
+    },
+    {
+      "BackgroundColor": 14,
+      "ForegroundColor": 6,
+      "Text": "2. Create a new dog"
+    },
+    {
+      "BackgroundColor": 14,
+      "ForegroundColor": 6,
+      "Text": "3. Delete existing dog"
+    },
+    {
+      "BackgroundColor": 14,
+      "ForegroundColor": 6,
+      "Text": "4. Modify existing dog"
+    },
+    {
+      "BackgroundColor": 14,
+      "ForegroundColor": 6,
+      "Text": "Please enter your choice: "
+    },
+    {
+      "BackgroundColor": 14,
+      "ForegroundColor": 6,
+      "Text": "Going back to parent menu."
+    },
+    {
+      "BackgroundColor": 14,
+      "ForegroundColor": 6,
+      "Text": "Invalid choice. Try again."
+    },
+    {
+      "BackgroundColor": 14,
+      "ForegroundColor": 6,
+      "Text": "Here's a list of dogs:"
+    },
+    {
+      "BackgroundColor": 14,
+      "ForegroundColor": 6,
+      "Text": "Dog number arg, "
+    },
+    {
+      "BackgroundColor": 14,
+      "ForegroundColor": 6,
+      "Text": "The list of dogs is empty."
+    },
+    {
+      "BackgroundColor": 14,
+      "ForegroundColor": 6,
+      "Text": "Dog with name: arg has been added to a list of dogs"
+    },
+    {
+      "BackgroundColor": 14,
+      "ForegroundColor": 6,
+      "Text": "Invalid input."
+    },
+    {
+      "BackgroundColor": 14,
+      "ForegroundColor": 6,
+      "Text": "What is the name of the dog you want to delete? "
+    },
+    {
+      "BackgroundColor": 14,
+      "ForegroundColor": 6,
+      "Text": "Dog with name: arg has been deleted from a list of dogs"
+    },
+    {
+      "BackgroundColor": 14,
+      "ForegroundColor": 6,
+      "Text": "Dog not found."
+    },
+    {
+      "BackgroundColor": 14,
+      "ForegroundColor": 6,
+      "Text": "Invalid input"
+    },
+    {
+      "BackgroundColor": 14,
+      "ForegroundColor": 6,
+      "Text": "What is the name of the dog you want to edit? "
+    },
+    {
+      "BackgroundColor": 14,
+      "ForegroundColor": 6,
+      "Text": "Dog after edit:"
+    },
+    {
+      "BackgroundColor": 14,
+      "ForegroundColor": 6,
+      "Text": "Dog not found."
+    },
+    {
+      "BackgroundColor": 14,
+      "ForegroundColor": 6,
+      "Text": "Invalid input. Try again."
+    },
+    {
+      "BackgroundColor": 14,
+      "ForegroundColor": 6,
+      "Text": "What name of the dog? "
+    },
+    {
+      "BackgroundColor": 14,
+      "ForegroundColor": 6,
+      "Text": "What is the dog's age? "
+    },
+    {
+      "BackgroundColor": 14,
+      "ForegroundColor": 6,
+      "Text": "What is the dog's breed? "
+    }
+  ],
+  "LineEntriesPL": [
+    {
+      "BackgroundColor": 14,
+      "ForegroundColor": 6,
+      "Text": "Twoje dostępne opcje to:"
+    },
+    {
+      "BackgroundColor": 14,
+      "ForegroundColor": 6,
+      "Text": "0. Wyjście"
+    },
+    {
+      "BackgroundColor": 14,
+      "ForegroundColor": 6,
+      "Text": "1. Wyświetl wszystkie psy"
+    },
+    {
+      "BackgroundColor": 14,
+      "ForegroundColor": 6,
+      "Text": "2. Dodaj nowego psa"
+    },
+    {
+      "BackgroundColor": 14,
+      "ForegroundColor": 6,
+      "Text": "3. Usuń istniejącego psa"
+    },
+    {
+      "BackgroundColor": 14,
+      "ForegroundColor": 6,
+      "Text": "4. Zmodyfikuj istniejącego psa"
+    },
+    {
+      "BackgroundColor": 14,
+      "ForegroundColor": 6,
+      "Text": "Proszę wprowadzić swój wybór: "
+    },
+    {
+      "BackgroundColor": 14,
+      "ForegroundColor": 6,
+      "Text": "Powrót do menu głównego."
+    },
+    {
+      "BackgroundColor": 14,
+      "ForegroundColor": 6,
+      "Text": "Nieprawidłowy wybór. Spróbuj ponownie."
+    },
+    {
+      "BackgroundColor": 14,
+      "ForegroundColor": 6,
+      "Text": "Oto lista psów:"
+    },
+    {
+      "BackgroundColor": 14,
+      "ForegroundColor": 6,
+      "Text": "Pies numer arg, "
+    },
+    {
+      "BackgroundColor": 14,
+      "ForegroundColor": 6,
+      "Text": "Lista psów jest pusta."
+    },
+    {
+      "BackgroundColor": 14,
+      "ForegroundColor": 6,
+      "Text": "Pies o nazwie: arg został dodany do listy psów"
+    },
+    {
+      "BackgroundColor": 14,
+      "ForegroundColor": 6,
+      "Text": "Nieprawidłowe dane."
+    },
+    {
+      "BackgroundColor": 14,
+      "ForegroundColor": 6,
+      "Text": "Jaki jest nazwa psa, który chcesz usunąć? "
+    },
+    {
+      "BackgroundColor": 14,
+      "ForegroundColor": 6,
+      "Text": "Pies o nazwie: arg został usunięty z listy psów"
+    },
+    {
+      "BackgroundColor": 14,
+      "ForegroundColor": 6,
+      "Text": "Nie znaleziono psa."
+    },
+    {
+      "BackgroundColor": 14,
+      "ForegroundColor": 6,
+      "Text": "Nieprawidłowe dane"
+    },
+    {
+      "BackgroundColor": 14,
+      "ForegroundColor": 6,
+      "Text": "Jaka jest nazwa psa? "
+    },
+    {
+      "BackgroundColor": 14,
+      "ForegroundColor": 6,
+      "Text": "Ile lat ma pies? "
+    },
+    {
+      "BackgroundColor": 14,
+      "ForegroundColor": 6,
+      "Text": "Jaka jest rasa psa? "
+    }
+  ]
+
+}

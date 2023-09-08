@@ -1,0 +1,278 @@
+{
+  "LineEntries": [
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 7,
+      "Text": "Your available choices are:"
+    },
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 7,
+      "Text": "0. Exit"
+    },
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 7,
+      "Text": "1. List all turkeys"
+    },
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 7,
+      "Text": "2. Create a new turkey"
+    },
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 7,
+      "Text": "3. Delete existing turkey"
+    },
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 7,
+      "Text": "4. Modify existing turkey"
+    },
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 7,
+      "Text": "Please enter your choice: "
+    },
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 7,
+      "Text": "Going back to parent menu."
+    },
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 7,
+      "Text": "Invalid choice. Try again."
+    },
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 7,
+      "Text": "Here's a list of turkeys:"
+    },
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 7,
+      "Text": "Turkey number arg, "
+    },
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 7,
+      "Text": "The list of turkeys is empty."
+    },
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 7,
+      "Text": "Turkey with name: arg has been added to a list of turkeys"
+    },
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 7,
+      "Text": "Invalid input."
+    },
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 7,
+      "Text": "What is the name of the turkey you want to delete? "
+    },
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 7,
+      "Text": "Turkey with name: arg has been deleted from a list of turkeys"
+    },
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 7,
+      "Text": "Turkey not found."
+    },
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 7,
+      "Text": "Invalid input"
+    },
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 7,
+      "Text": "What is the name of the turkey you want to edit? "
+    },
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 7,
+      "Text": "Turkey after edit:"
+    },
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 7,
+      "Text": "Turkey not found."
+    },
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 7,
+      "Text": "Invalid input. Try again."
+    },
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 7,
+      "Text": "What name of the turkey? "
+    },
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 7,
+      "Text": "What is the turkey's age? "
+    },
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 7,
+      "Text": "What is the turkey's color? "
+    },
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 7,
+      "Text": "What is the turkey's sound? "
+    },
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 7,
+      "Text": "What is the turkey's egg production rate? "
+    }
+  ],
+  "LineEntriesPL": [
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 7,
+      "Text": "Twoje dostępne opcje to:"
+    },
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 7,
+      "Text": "0. Wyjście"
+    },
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 7,
+      "Text": "1. Wyświetl wszystkie indyki"
+    },
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 7,
+      "Text": "2. Dodaj nowego indyka"
+    },
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 7,
+      "Text": "3. Usuń istniejącego indyka"
+    },
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 7,
+      "Text": "4. Zmodyfikuj istniejącego indyka"
+    },
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 7,
+      "Text": "Proszę wprowadzić swój wybór: "
+    },
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 7,
+      "Text": "Powrót do menu głównego."
+    },
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 7,
+      "Text": "Nieprawidłowy wybór. Spróbuj ponownie."
+    },
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 7,
+      "Text": "Oto lista indyków:"
+    },
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 7,
+      "Text": "Indyk numer arg, "
+    },
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 7,
+      "Text": "Lista indyków jest pusta."
+    },
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 7,
+      "Text": "Indyk o nazwie: arg został dodany do listy indyków"
+    },
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 7,
+      "Text": "Nieprawidłowe dane."
+    },
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 7,
+      "Text": "Jaka jest nazwa indyka, którego chcesz usunąć? "
+    },
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 7,
+      "Text": "Indyk o nazwie: arg został usunięty z listy indyków"
+    },
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 7,
+      "Text": "Indyk nie znaleziony."
+    },
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 7,
+      "Text": "Nieprawidłowe dane."
+    },
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 7,
+      "Text": "Jaka jest nazwa indyka, którego chcesz edytować? "
+    },
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 7,
+      "Text": "Indyk po edycji:"
+    },
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 7,
+      "Text": "Indyk nie znaleziony."
+    },
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 7,
+      "Text": "Nieprawidłowe dane. Spróbuj ponownie."
+    },
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 7,
+      "Text": "Jaka jest nazwa indyka? "
+    },
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 7,
+      "Text": "Ile lat ma indyk? "
+    },
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 7,
+      "Text": "Jaki jest kolor indyka? "
+    },
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 7,
+      "Text": "Jaki jest dźwięk indyka? "
+    },
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 7,
+      "Text": "Jaka jest wydajność jaj indyka? "
+    }
+  ]
+
+
+}

@@ -1,0 +1,278 @@
+{
+  "LineEntries": [
+    {
+      "BackgroundColor": 7,
+      "ForegroundColor": 9,
+      "Text": "Your available choices are:"
+    },
+    {
+      "BackgroundColor": 7,
+      "ForegroundColor": 9,
+      "Text": "0. Exit"
+    },
+    {
+      "BackgroundColor": 7,
+      "ForegroundColor": 9,
+      "Text": "1. List all hedgehogs"
+    },
+    {
+      "BackgroundColor": 7,
+      "ForegroundColor": 9,
+      "Text": "2. Create a new hedgehog"
+    },
+    {
+      "BackgroundColor": 7,
+      "ForegroundColor": 9,
+      "Text": "3. Delete existing hedgehog"
+    },
+    {
+      "BackgroundColor": 7,
+      "ForegroundColor": 9,
+      "Text": "4. Modify existing hedgehog"
+    },
+    {
+      "BackgroundColor": 7,
+      "ForegroundColor": 9,
+      "Text": "Please enter your choice: "
+    },
+    {
+      "BackgroundColor": 7,
+      "ForegroundColor": 9,
+      "Text": "Going back to parent menu."
+    },
+    {
+      "BackgroundColor": 7,
+      "ForegroundColor": 9,
+      "Text": "Invalid choice. Try again."
+    },
+    {
+      "BackgroundColor": 7,
+      "ForegroundColor": 9,
+      "Text": "Here's a list of hedgehogs:"
+    },
+    {
+      "BackgroundColor": 7,
+      "ForegroundColor": 9,
+      "Text": "Hedgehog number arg, "
+    },
+    {
+      "BackgroundColor": 7,
+      "ForegroundColor": 9,
+      "Text": "The list of hedgehogs is empty."
+    },
+    {
+      "BackgroundColor": 7,
+      "ForegroundColor": 9,
+      "Text": "Hedgehog with name: arg has been added to a list of hedgehogs"
+    },
+    {
+      "BackgroundColor": 7,
+      "ForegroundColor": 9,
+      "Text": "Invalid input."
+    },
+    {
+      "BackgroundColor": 7,
+      "ForegroundColor": 9,
+      "Text": "What is the name of the hedgehog you want to delete? "
+    },
+    {
+      "BackgroundColor": 7,
+      "ForegroundColor": 9,
+      "Text": "Hedgehog with name: arg has been deleted from a list of hedgehogs"
+    },
+    {
+      "BackgroundColor": 7,
+      "ForegroundColor": 9,
+      "Text": "Hedgehog not found."
+    },
+    {
+      "BackgroundColor": 7,
+      "ForegroundColor": 9,
+      "Text": "Invalid input"
+    },
+    {
+      "BackgroundColor": 7,
+      "ForegroundColor": 9,
+      "Text": "What is the name of the hedgehog you want to edit? "
+    },
+    {
+      "BackgroundColor": 7,
+      "ForegroundColor": 9,
+      "Text": "Hedgehog after edit:"
+    },
+    {
+      "BackgroundColor": 7,
+      "ForegroundColor": 9,
+      "Text": "Hedgehog not found."
+    },
+    {
+      "BackgroundColor": 7,
+      "ForegroundColor": 9,
+      "Text": "Invalid input. Try again."
+    },
+    {
+      "BackgroundColor": 7,
+      "ForegroundColor": 9,
+      "Text": "What name of the hedgehog? "
+    },
+    {
+      "BackgroundColor": 7,
+      "ForegroundColor": 9,
+      "Text": "What is the hedgehog's age? "
+    },
+    {
+      "BackgroundColor": 7,
+      "ForegroundColor": 9,
+      "Text": "What is the hedgehog's color? "
+    },
+    {
+      "BackgroundColor": 7,
+      "ForegroundColor": 9,
+      "Text": "What is the hedgehog's spike length? "
+    },
+    {
+      "BackgroundColor": 7,
+      "ForegroundColor": 9,
+      "Text": "What is the hedgehog's favorite food? "
+    }
+  ],
+  "LineEntriesPL": [
+    {
+      "BackgroundColor": 7,
+      "ForegroundColor": 9,
+      "Text": "Twoje dostępne opcje to:"
+    },
+    {
+      "BackgroundColor": 7,
+      "ForegroundColor": 9,
+      "Text": "0. Wyjście"
+    },
+    {
+      "BackgroundColor": 7,
+      "ForegroundColor": 9,
+      "Text": "1. Wyświetl wszystkie jeże"
+    },
+    {
+      "BackgroundColor": 7,
+      "ForegroundColor": 9,
+      "Text": "2. Dodaj nowego jeża"
+    },
+    {
+      "BackgroundColor": 7,
+      "ForegroundColor": 9,
+      "Text": "3. Usuń istniejącego jeża"
+    },
+    {
+      "BackgroundColor": 7,
+      "ForegroundColor": 9,
+      "Text": "4. Zmodyfikuj istniejącego jeża"
+    },
+    {
+      "BackgroundColor": 7,
+      "ForegroundColor": 9,
+      "Text": "Proszę wprowadzić swój wybór: "
+    },
+    {
+      "BackgroundColor": 7,
+      "ForegroundColor": 9,
+      "Text": "Powrót do menu głównego."
+    },
+    {
+      "BackgroundColor": 7,
+      "ForegroundColor": 9,
+      "Text": "Nieprawidłowy wybór. Spróbuj ponownie."
+    },
+    {
+      "BackgroundColor": 7,
+      "ForegroundColor": 9,
+      "Text": "Oto lista jeży:"
+    },
+    {
+      "BackgroundColor": 7,
+      "ForegroundColor": 9,
+      "Text": "Jeż numer arg, "
+    },
+    {
+      "BackgroundColor": 7,
+      "ForegroundColor": 9,
+      "Text": "Lista jeży jest pusta."
+    },
+    {
+      "BackgroundColor": 7,
+      "ForegroundColor": 9,
+      "Text": "Jeż o nazwie: arg został dodany do listy jeży"
+    },
+    {
+      "BackgroundColor": 7,
+      "ForegroundColor": 9,
+      "Text": "Nieprawidłowe dane."
+    },
+    {
+      "BackgroundColor": 7,
+      "ForegroundColor": 9,
+      "Text": "Jaka jest nazwa jeża, którego chcesz usunąć? "
+    },
+    {
+      "BackgroundColor": 7,
+      "ForegroundColor": 9,
+      "Text": "Jeż o nazwie: arg został usunięty z listy jeży"
+    },
+    {
+      "BackgroundColor": 7,
+      "ForegroundColor": 9,
+      "Text": "Jeż nie znaleziony."
+    },
+    {
+      "BackgroundColor": 7,
+      "ForegroundColor": 9,
+      "Text": "Nieprawidłowe dane."
+    },
+    {
+      "BackgroundColor": 7,
+      "ForegroundColor": 9,
+      "Text": "Jaka jest nazwa jeża, którego chcesz edytować? "
+    },
+    {
+      "BackgroundColor": 7,
+      "ForegroundColor": 9,
+      "Text": "Jeż po edycji:"
+    },
+    {
+      "BackgroundColor": 7,
+      "ForegroundColor": 9,
+      "Text": "Jeż nie znaleziony."
+    },
+    {
+      "BackgroundColor": 7,
+      "ForegroundColor": 9,
+      "Text": "Nieprawidłowe dane. Spróbuj ponownie."
+    },
+    {
+      "BackgroundColor": 7,
+      "ForegroundColor": 9,
+      "Text": "Jaka jest nazwa jeża? "
+    },
+    {
+      "BackgroundColor": 7,
+      "ForegroundColor": 9,
+      "Text": "Ile lat ma jeż? "
+    },
+    {
+      "BackgroundColor": 7,
+      "ForegroundColor": 9,
+      "Text": "Jaki jest kolor jeża? "
+    },
+    {
+      "BackgroundColor": 7,
+      "ForegroundColor": 9,
+      "Text": "Jaka jest długość kolców jeża? "
+    },
+    {
+      "BackgroundColor": 7,
+      "ForegroundColor": 9,
+      "Text": "Jaka jest ulubiona żywność jeża? "
+    }
+  ]
+
+
+}

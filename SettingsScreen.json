@@ -1,0 +1,77 @@
+{
+  "LineEntries": [
+    {
+      "BackgroundColor": 3,
+      "ForegroundColor": 1,
+      "Text": "Your available choice:"
+    },
+    {
+      "BackgroundColor": 3,
+      "ForegroundColor": 1,
+      "Text": "0. Exit"
+    },
+    {
+      "BackgroundColor": 3,
+      "ForegroundColor": 1,
+      "Text": "1. ENG"
+    },
+    {
+      "BackgroundColor": 3,
+      "ForegroundColor": 1,
+      "Text": "2. PL"
+    },
+    {
+      "BackgroundColor": 3,
+      "ForegroundColor": 1,
+      "Text": "Please enter your choice: "
+    },
+    {
+      "BackgroundColor": 3,
+      "ForegroundColor": 1,
+      "Text": "Language has been successfully changed "
+    },
+    {
+      "BackgroundColor": 3,
+      "ForegroundColor": 1,
+      "Text": "Invalid choice. Try again."
+    }
+  ],
+  "LineEntriesPL": [
+    {
+      "BackgroundColor": 3,
+      "ForegroundColor": 1,
+      "Text": "Dostępne opcje to:"
+    },
+    {
+      "BackgroundColor": 3,
+      "ForegroundColor": 1,
+      "Text": "0. Wyjście"
+    },
+    {
+      "BackgroundColor": 3,
+      "ForegroundColor": 1,
+      "Text": "1. ENG"
+    },
+    {
+      "BackgroundColor": 3,
+      "ForegroundColor": 1,
+      "Text": "2. PL"
+    },
+    {
+      "BackgroundColor": 3,
+      "ForegroundColor": 1,
+      "Text": "Proszę wprowadzić swój wybór: "
+    },
+    {
+      "BackgroundColor": 3,
+      "ForegroundColor": 1,
+      "Text": "Język został pomyślnie zmieniony"
+    },
+    {
+      "BackgroundColor": 3,
+      "ForegroundColor": 1,
+      "Text": "Nieprawidłowy wybór. Spróbuj ponownie."
+    }
+  ]
+
+}

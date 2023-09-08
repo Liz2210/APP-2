@@ -1,0 +1,96 @@
+{
+  "LineEntries": [
+    {
+      "BackgroundColor": 5,
+      "ForegroundColor": 15,
+      "Text": "Your available choices are"
+    },
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 2,
+      "Text": "0. Exit"
+    },
+    {
+      "BackgroundColor": 14,
+      "ForegroundColor": 6,
+      "Text": "1. Dogs"
+    },
+    {
+      "BackgroundColor": 11,
+      "ForegroundColor": 15,
+      "Text": "2. Anteaters"
+    },
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 7,
+      "Text": "3. Turkeys"
+    },
+    {
+      "BackgroundColor": 7,
+      "ForegroundColor": 9,
+      "Text": "4. Hedgehogs"
+    },
+    {
+      "BackgroundColor": 5,
+      "ForegroundColor": 15,
+      "Text": "Please enter your choice: "
+    },
+    {
+      "BackgroundColor": 5,
+      "ForegroundColor": 15,
+      "Text": "Going back to parent menu."
+    },
+    {
+      "BackgroundColor": 5,
+      "ForegroundColor": 15,
+      "Text": "Invalid choice. Try again."
+    }
+  ],
+  "LineEntriesPL": [
+    {
+      "BackgroundColor": 5,
+      "ForegroundColor": 15,
+      "Text": "Dostępne opcje to"
+    },
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 2,
+      "Text": "0. Wyjście"
+    },
+    {
+      "BackgroundColor": 14,
+      "ForegroundColor": 6,
+      "Text": "1. Psy"
+    },
+    {
+      "BackgroundColor": 11,
+      "ForegroundColor": 15,
+      "Text": "2. Mrówkojady"
+    },
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 7,
+      "Text": "3. Indyki"
+    },
+    {
+      "BackgroundColor": 7,
+      "ForegroundColor": 9,
+      "Text": "4. Jeże"
+    },
+    {
+      "BackgroundColor": 5,
+      "ForegroundColor": 15,
+      "Text": "Proszę wprowadzić swój wybór: "
+    },
+    {
+      "BackgroundColor": 5,
+      "ForegroundColor": 15,
+      "Text": "Powrót do menu głównego."
+    },
+    {
+      "BackgroundColor": 5,
+      "ForegroundColor": 15,
+      "Text": "Nieprawidłowy wybór. Spróbuj ponownie."
+    }
+  ]
+}

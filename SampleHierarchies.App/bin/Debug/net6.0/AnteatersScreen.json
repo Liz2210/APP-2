@@ -1,0 +1,277 @@
+{
+  "LineEntries": [
+    {
+      "BackgroundColor": 11,
+      "ForegroundColor": 15,
+      "Text": "Your available choices are:"
+    },
+    {
+      "BackgroundColor": 11,
+      "ForegroundColor": 15,
+      "Text": "0. Exit"
+    },
+    {
+      "BackgroundColor": 11,
+      "ForegroundColor": 15,
+      "Text": "1. List all anteaters"
+    },
+    {
+      "BackgroundColor": 11,
+      "ForegroundColor": 15,
+      "Text": "2. Create a new anteater"
+    },
+    {
+      "BackgroundColor": 11,
+      "ForegroundColor": 15,
+      "Text": "3. Delete existing anteater"
+    },
+    {
+      "BackgroundColor": 11,
+      "ForegroundColor": 15,
+      "Text": "4. Modify existing anteater"
+    },
+    {
+      "BackgroundColor": 11,
+      "ForegroundColor": 15,
+      "Text": "Please enter your choice: "
+    },
+    {
+      "BackgroundColor": 11,
+      "ForegroundColor": 15,
+      "Text": "Going back to parent menu."
+    },
+    {
+      "BackgroundColor": 11,
+      "ForegroundColor": 15,
+      "Text": "Invalid choice. Try again."
+    },
+    {
+      "BackgroundColor": 11,
+      "ForegroundColor": 15,
+      "Text": "Here's a list of anteaters:"
+    },
+    {
+      "BackgroundColor": 11,
+      "ForegroundColor": 15,
+      "Text": "Anteater number arg, "
+    },
+    {
+      "BackgroundColor": 11,
+      "ForegroundColor": 15,
+      "Text": "The list of anteaters is empty."
+    },
+    {
+      "BackgroundColor": 11,
+      "ForegroundColor": 15,
+      "Text": "Anteater with name: arg has been added to a list of anteaters"
+    },
+    {
+      "BackgroundColor": 11,
+      "ForegroundColor": 15,
+      "Text": "Invalid input."
+    },
+    {
+      "BackgroundColor": 11,
+      "ForegroundColor": 15,
+      "Text": "What is the name of the anteater you want to delete? "
+    },
+    {
+      "BackgroundColor": 11,
+      "ForegroundColor": 15,
+      "Text": "Anteater with name: arg has been deleted from a list of anteaters"
+    },
+    {
+      "BackgroundColor": 11,
+      "ForegroundColor": 15,
+      "Text": "Anteater not found."
+    },
+    {
+      "BackgroundColor": 11,
+      "ForegroundColor": 15,
+      "Text": "Invalid input"
+    },
+    {
+      "BackgroundColor": 11,
+      "ForegroundColor": 15,
+      "Text": "What is the name of the anteater you want to edit? "
+    },
+    {
+      "BackgroundColor": 11,
+      "ForegroundColor": 15,
+      "Text": "Anteater after edit:"
+    },
+    {
+      "BackgroundColor": 11,
+      "ForegroundColor": 15,
+      "Text": "Anteater not found."
+    },
+    {
+      "BackgroundColor": 11,
+      "ForegroundColor": 15,
+      "Text": "Invalid input. Try again."
+    },
+    {
+      "BackgroundColor": 11,
+      "ForegroundColor": 15,
+      "Text": "What is the name of the anteater? "
+    },
+    {
+      "BackgroundColor": 11,
+      "ForegroundColor": 15,
+      "Text": "What is the anteater's age? "
+    },
+    {
+      "BackgroundColor": 11,
+      "ForegroundColor": 15,
+      "Text": "What is the anteater's snout length? "
+    },
+    {
+      "BackgroundColor": 11,
+      "ForegroundColor": 15,
+      "Text": "What is the anteater's size? "
+    },
+    {
+      "BackgroundColor": 11,
+      "ForegroundColor": 15,
+      "Text": "What is the anteater's diet? "
+    }
+  ],
+  "LineEntriesPL": [
+    {
+      "BackgroundColor": 11,
+      "ForegroundColor": 15,
+      "Text": "Twoje dostępne opcje to:"
+    },
+    {
+      "BackgroundColor": 11,
+      "ForegroundColor": 15,
+      "Text": "0. Wyjście"
+    },
+    {
+      "BackgroundColor": 11,
+      "ForegroundColor": 15,
+      "Text": "1. Wyświetl wszystkie mrówkojady"
+    },
+    {
+      "BackgroundColor": 11,
+      "ForegroundColor": 15,
+      "Text": "2. Dodaj nowego mrówkojada"
+    },
+    {
+      "BackgroundColor": 11,
+      "ForegroundColor": 15,
+      "Text": "3. Usuń istniejącego mrówkojada"
+    },
+    {
+      "BackgroundColor": 11,
+      "ForegroundColor": 15,
+      "Text": "4. Zmodyfikuj istniejącego mrówkojada"
+    },
+    {
+      "BackgroundColor": 11,
+      "ForegroundColor": 15,
+      "Text": "Proszę wprowadzić swój wybór: "
+    },
+    {
+      "BackgroundColor": 11,
+      "ForegroundColor": 15,
+      "Text": "Powrót do menu głównego."
+    },
+    {
+      "BackgroundColor": 11,
+      "ForegroundColor": 15,
+      "Text": "Nieprawidłowy wybór. Spróbuj ponownie."
+    },
+    {
+      "BackgroundColor": 11,
+      "ForegroundColor": 15,
+      "Text": "Oto lista mrówkojadów:"
+    },
+    {
+      "BackgroundColor": 11,
+      "ForegroundColor": 15,
+      "Text": "Mrówkojad numer arg, "
+    },
+    {
+      "BackgroundColor": 11,
+      "ForegroundColor": 15,
+      "Text": "Lista mrówkojadów jest pusta."
+    },
+    {
+      "BackgroundColor": 11,
+      "ForegroundColor": 15,
+      "Text": "Mrówkojad o nazwie: arg został dodany do listy mrówkojadów"
+    },
+    {
+      "BackgroundColor": 11,
+      "ForegroundColor": 15,
+      "Text": "Nieprawidłowe dane."
+    },
+    {
+      "BackgroundColor": 11,
+      "ForegroundColor": 15,
+      "Text": "Jaka jest nazwa mrówkojada, którego chcesz usunąć? "
+    },
+    {
+      "BackgroundColor": 11,
+      "ForegroundColor": 15,
+      "Text": "Mrówkojad o nazwie: arg został usunięty z listy mrówkojadów"
+    },
+    {
+      "BackgroundColor": 11,
+      "ForegroundColor": 15,
+      "Text": "Mrówkojad nie znaleziony."
+    },
+    {
+      "BackgroundColor": 11,
+      "ForegroundColor": 15,
+      "Text": "Nieprawidłowe dane."
+    },
+    {
+      "BackgroundColor": 11,
+      "ForegroundColor": 15,
+      "Text": "Jaka jest nazwa mrówkojada, którego chcesz edytować? "
+    },
+    {
+      "BackgroundColor": 11,
+      "ForegroundColor": 15,
+      "Text": "Mrówkojad po edycji:"
+    },
+    {
+      "BackgroundColor": 11,
+      "ForegroundColor": 15,
+      "Text": "Mrówkojad nie znaleziony."
+    },
+    {
+      "BackgroundColor": 11,
+      "ForegroundColor": 15,
+      "Text": "Nieprawidłowe dane. Spróbuj ponownie."
+    },
+    {
+      "BackgroundColor": 11,
+      "ForegroundColor": 15,
+      "Text": "Jaka jest nazwa mrówkojada? "
+    },
+    {
+      "BackgroundColor": 11,
+      "ForegroundColor": 15,
+      "Text": "Ile lat ma mrówkojad? "
+    },
+    {
+      "BackgroundColor": 11,
+      "ForegroundColor": 15,
+      "Text": "Jaka jest długość pyska mrówkojada? "
+    },
+    {
+      "BackgroundColor": 11,
+      "ForegroundColor": 15,
+      "Text": "Jaki jest rozmiar mrówkojada? "
+    },
+    {
+      "BackgroundColor": 11,
+      "ForegroundColor": 15,
+      "Text": "Jaka jest dieta mrówkojada? "
+    }
+  ]
+
+}

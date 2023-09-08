@@ -1,0 +1,77 @@
+{
+  "LineEntries": [
+    {
+      "BackgroundColor": 9,
+      "ForegroundColor": 7,
+      "Text": "Your available choices are:"
+    },
+    {
+      "BackgroundColor": 9,
+      "ForegroundColor": 7,
+      "Text": "0. Exit"
+    },
+    {
+      "BackgroundColor": 9,
+      "ForegroundColor": 7,
+      "Text": "1. Animals"
+    },
+    {
+      "BackgroundColor": 9,
+      "ForegroundColor": 7,
+      "Text": "2. Set language"
+    },
+    {
+      "BackgroundColor": 9,
+      "ForegroundColor": 7,
+      "Text": "Please enter your choice: "
+    },
+    {
+      "BackgroundColor": 9,
+      "ForegroundColor": 7,
+      "Text": "Goodbye."
+    },
+    {
+      "BackgroundColor": 9,
+      "ForegroundColor": 7,
+      "Text": "Invalid choice. Try again."
+    }
+  ],
+  "LineEntriesPL": [
+    {
+      "BackgroundColor": 9,
+      "ForegroundColor": 7,
+      "Text": "Dostępne opcje to:"
+    },
+    {
+      "BackgroundColor": 9,
+      "ForegroundColor": 7,
+      "Text": "0. Wyjście"
+    },
+    {
+      "BackgroundColor": 9,
+      "ForegroundColor": 7,
+      "Text": "1. Zwierzęta"
+    },
+    {
+      "BackgroundColor": 9,
+      "ForegroundColor": 7,
+      "Text": "2. Ustaw język"
+    },
+    {
+      "BackgroundColor": 9,
+      "ForegroundColor": 7,
+      "Text": "Proszę wprowadzić swój wybór: "
+    },
+    {
+      "BackgroundColor": 9,
+      "ForegroundColor": 7,
+      "Text": "Do widzenia."
+    },
+    {
+      "BackgroundColor": 9,
+      "ForegroundColor": 7,
+      "Text": "Nieprawidłowy wybór. Spróbuj ponownie."
+    }
+  ]
+
+}
